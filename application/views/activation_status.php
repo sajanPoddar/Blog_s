@@ -1,0 +1,3 @@
+<h2>
+    your id is active now. u can login now...
+</h2>
